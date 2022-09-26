@@ -1,0 +1,44 @@
+.my-contacts-h1{
+    padding-top: 30px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.cards{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 400px;
+    height: 180px;
+    text-align: end;
+    background-color: #25316D;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    color: white;
+    border-radius: 30px;
+    justify-content: center;
+}
+
+.first-card{
+    margin-top: 80px;
+}
+
+#first-section h4{
+    font-weight: 800;
+}
+
+.card-img{
+    width: 150px;
+    border-radius: 100%;
+    height: 150px;
+    border: 5px solid;
+    position: relative;
+    right: 190px;
+    bottom: 131px;
+    object-fit: cover;
+    
+
+}
+
+
